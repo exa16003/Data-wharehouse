@@ -7,18 +7,6 @@ Utilizando:
 - Node.js y Express.js (Backend).
 - MySQL (MariaDB) (Base de datos) **
 
-# ¿Qué herramientas usé para este proyecto?
-
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/)
-- [MySQL](https://www.mysql.com/)
-- [JWT](https://jwt.io/)
-- [Sequelize](https://sequelize.org/)
-- [Nodemon](https://nodemon.io/)
-- [Postman](https://www.postman.com/)
-- [Flag-Icon-CSS] (https://flagicons.lipis.dev/)
-
-
 # ¿Cómo correr la API localmente?
 
 Para lograr correr la API de forma local es necesario contar con [XAMPP](https://www.apachefriends.org/index.html).
