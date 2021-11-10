@@ -46,7 +46,7 @@ Se abrirá una terminal en la cual tenemos que escribir:
 En caso de no haber ningún error debe aparecer la leyenda: "Servidor está corriendo en el puerto 3000" seguido de: "Conectado a Sequelize".
 
 ## Iniciar la parte del Frontend de la página
-Coloca el usuario joaquiny la contraseña "11223344" y podrás ingresar a todas las funciones de la página ya que ingresarás como administrador.
+Coloca el usuario joaquin y la contraseña "11223344" y podrás ingresar a todas las funciones de la página ya que ingresarás como administrador.
 En caso de no querer iniciar como administrador, debes ingresar con cualquiera de los demás usuarios (sus datos están en la base de datos en la tabla de "usuarios")
 
 
